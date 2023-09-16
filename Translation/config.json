@@ -1,0 +1,8 @@
+{
+    "input_file": "input.txt",
+    "target_language": "fr",
+    "output_mode": "screen",
+    "max_characters": 1000,
+    "max_words": 200,
+    "max_sentences": 10
+}
